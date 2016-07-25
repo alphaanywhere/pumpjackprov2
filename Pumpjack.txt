@@ -1,0 +1,73 @@
+
+
+
+visually inspect the flywheel for loose bolting
+Visually inspect the counterweights for tightness to the crank
+Visually inspect the center bearing to insure it has not worked loose
+Visually inspect the distance between the pitman-side members and the cranks on each side of the unit.
+Visually inspect the wireline to insure it is properly tracking on the horsehead. Also look for broken strands of wire fraying from the wireline,
+
+
+Gear Reducer
+The reducer oil level should be checked. Loss of oil from the reducer is usually caused by seal leakage at the shafts or leakage at the parting line of the housing. If the oil level is low, remove the inspection cover and add oil to the proper level.
+
+
+Visually inspect the structural bearings for oil seal leaks. This would include the crank pin, equalizer, and center bearing assemblies. Grease fittings are located at ground level, and if needed, the grease should be pumped in slowly to avoid pushing out the oil seals.
+
+
+
+Belt alignment and tension should be checked and adjusted to prolong belt life. Under normal utilization belts will stretch and wear. It is recommended that new belts be retightened after the first 24 hours of operation. Also check the sheaves for wear, chips, or cracks.
+It is recommended that an oil sample be taken every six months to determine condition of the oil. Collect a typical sample (one cup) of the reducer oil in a transparent receptacle. A visual inspection will expose possible dirt, sludge, water emulsion, or other forms of contamination. You may also desire to keep a sample of new oil for comparisons. If you determine that you have any of the following conditions in the lubricant, check with a qualified vendor regarding replacement:
+
+1) An acid or singed odor indicates oxidation of the oil to the degree that it should be replaced.
+
+- 2) &nbsp;&nbsp;If sludge is observed in the used sample, the oil should be replaced or filtered to remove the sludge. This condition is prevalent if the lubricant has not been changed for a long period of time.
+
+- 3) &nbsp;&nbsp;If water exists in the used sample, the water should be completely drained from the reducer. Water presence in oil can be detected by placing a drop or two on a heated metal surface. Subsequent bubbling will occur with as little as 0.1 % of water present in the oil. If there is greater than 0.2% water by volume, an oil change is recommended.
+
+
+Visually inspect the wireline for wire fraying. A rusty wireline should be cleaned and coated with a wireline lubricant
+
+
+
+Gear Reducer Oil Condition
+	Crackle test for water
+	Sludge
+	Acid or singed Odor
+Gear Reducer Oil replaced on date
+Oil Added - number of gallons (up to 300)
+Oil Leaks
+	Crank Pin
+	Equalizer 
+	Center Bearing Assemblies
+Pinch point covers
+Flywheel - loose bolting
+Conterweights - tightness to crank
+Visually inspect the distance between the pitman-side members and the cranks on each side of the unit
+Center bearing - aligned
+Wireline - proper tracking
+Wireline - fraying 
+Wireline - rusting
+Vbelt - tension
+Vbelt - wear
+
+
+Safety fencing
+Photo of equipment
+Location
+
+
+Bolting
+	See Tightening chart
+		
+	
+
+
+
+
+
+
+
+
+
+

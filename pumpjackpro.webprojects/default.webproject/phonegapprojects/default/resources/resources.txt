@@ -1,0 +1,30 @@
+{
+	"_id": "2070894",
+	"_icon": "Z:\\Documents\\alpha\\Product Management\\Sample Apps\\Pumpjack Inspector\\iconImage.png",
+	"_ssL": "",
+	"_ssP": "",
+	"_initialUxComponent": "PumpJackProV2",
+	"_componentLastUpdated": "07/25/2016 03:00:01 00 pm",
+	"_ajaxUrl": "",
+	"_additionalFiles": "*.png\n*.gif",
+	"_userName": "xsSrjVniJg/q1h9pJ8UchzivoozYsvrg",
+	"_pw": "SLSfvWKEVHQxqvD+X0VLPw==",
+	"_token": "",
+	"timeout": {
+		"phoneGapBuild": "<default>",
+		"phoneGapBuildLogin": "<default>",
+		"getAppIcon": "<default>"
+	},
+	"apperian": {
+		"enableOptions": false,
+		"loginName": "osLnGM4pUcQ=",
+		"password": "c5JMXi9Y+Ko=",
+		"serverURL": "https://easesvc.apperian.com/ease.interface.php"
+	},
+	"backupConfigFile": true,
+	"useImageMagick": true,
+	"indexHTMLMetaTags": "",
+	"_sqlitedbdefined": false,
+	"genAppZipFile": false,
+	"zipFileLocation": ""
+}
